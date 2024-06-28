@@ -13,11 +13,10 @@ body{
     padding: 20px;
     background-color: #000;
 }
-
 #box{
-    height: 200px;
-    width: 200px;
-    background-color: crimson;
+    height: 20vw;
+    width: 20vw;
     border-radius: 10px;
+    background-color: yellow;
+    position: absolute;
 }
-
